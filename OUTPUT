@@ -1,1 +1,12 @@
+Student Grades Tracker and Manager
+
+Enter a grade (or -1 to stop): 85
+Enter a grade (or -1 to stop): 92
+Enter a grade (or -1 to stop): 78
+Enter a grade (or -1 to stop): -1
+
+Grades Entered: [85.0, 92.0, 78.0]
+Average Grade: 85.00
+Letter Grade: B
+GPA: 3.00
 
